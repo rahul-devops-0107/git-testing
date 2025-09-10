@@ -1,0 +1,5 @@
+git pull operation is checked right now. 
+We are performing pull operation by making changes in this file from the github and then we are reflecting these changes within the local repo using the git pull operation.
+
+Command we are using:
+git pull # This command will pull the changes from the branch that the user is in, so the user need not to specify the branch
